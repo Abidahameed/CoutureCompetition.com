@@ -1,1 +1,1 @@
-This is just a frontend of fashion contest website; it's a vibrant community that fosters creativity, celebrates diversity, and empowers fashion enthusiasts to express themselves on a global stage.# fashion-website
+This is just a frontend of fashion contest website; it's a vibrant community that fosters creativity, celebrates diversity, and empowers fashion enthusiasts to express themselves on a global stage.And this website is created using Html and CSS# fashion-website

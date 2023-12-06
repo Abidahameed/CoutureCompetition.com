@@ -1,0 +1,1 @@
+This is just a frontend of fashion contest website; it's a vibrant community that fosters creativity, celebrates diversity, and empowers fashion enthusiasts to express themselves on a global stage.# fashion-website
